@@ -1,9 +1,11 @@
 # Required Arduino Libraries (install via Arduino IDE Library Manager)
 #
-# DHT sensor library   — Adafruit  (search: DHT sensor library)
-# Adafruit GFX Library — Adafruit  (search: Adafruit GFX)
-# Adafruit SSD1306     — Adafruit  (search: Adafruit SSD1306)
-# SoftwareSerial       — bundled with Arduino IDE
+# ESP8266WiFi          — bundled with ESP8266 Arduino core
+# ESP8266WebServer     — bundled with ESP8266 Arduino core
+# PubSubClient         — Nick O'Leary  (search: PubSubClient)
+# ArduinoJson          — Benoit Blanchon  v6.x  (search: ArduinoJson)
+# SoftwareSerial       — bundled with Arduino / ESP8266 core
 
-# Board: Arduino UNO (ATmega328P)
-# No extra board manager URL needed.
+# Board package (install via Board Manager)
+# ESP8266 by ESP8266 Community  v3.1.x
+#   URL: https://arduino.esp8266.com/stable/package_esp8266com_index.json
