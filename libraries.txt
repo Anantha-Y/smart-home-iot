@@ -1,0 +1,9 @@
+# Required Arduino Libraries (install via Arduino IDE Library Manager)
+#
+# DHT sensor library   — Adafruit  (search: DHT sensor library)
+# Adafruit GFX Library — Adafruit  (search: Adafruit GFX)
+# Adafruit SSD1306     — Adafruit  (search: Adafruit SSD1306)
+# SoftwareSerial       — bundled with Arduino IDE
+
+# Board: Arduino UNO (ATmega328P)
+# No extra board manager URL needed.
